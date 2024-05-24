@@ -5,3 +5,6 @@ Building predictive models to estimate credit card consumption for customers wit
 Validating models using Root Mean Square Percentage Error (RMSPE).
 
 
+
+
+
