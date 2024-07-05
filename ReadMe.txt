@@ -3,8 +3,3 @@ The leading bank aims to predict credit card consumption for customers based on 
 Conducting data exploratory analysis on customer demographics and behavior.
 Building predictive models to estimate credit card consumption for customers with missing values.
 Validating models using Root Mean Square Percentage Error (RMSPE).
-
-
-
-
-
